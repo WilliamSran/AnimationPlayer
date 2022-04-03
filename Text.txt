@@ -1,0 +1,79 @@
+frames: 60
+speed: 5fps
+4
+
+Line
+startX: 10
+startY: 10
+endX: 100
+endY: 100
+color: 7, 71, 249
+border: 10
+
+effect
+Show
+start: 5
+
+effect
+Hide
+start: 6
+
+effect
+Show
+start: 7
+
+Circle
+r: 50
+x: 100
+y: 300
+color: 76,80, 20
+borderColor: 12,32,43
+border: 10
+
+effect
+ChangeColor
+start: 40
+color: 12,43,65
+
+effect
+Show
+start: 25
+
+effect
+Jump
+start: 35
+x: 500
+y: 300
+
+Rect
+length: 30
+width: 50
+x: 300
+y: 100
+
+effect
+Show
+start: 25
+
+effect
+Jump
+start: 35
+x: 300
+y: 400
+
+effect
+ChangeColor
+start: 35
+color: 243,93,18
+
+Circle
+
+effect
+Show
+Start: 50
+
+effect 
+Jump
+Start: 55
+x: 500
+y: 400
